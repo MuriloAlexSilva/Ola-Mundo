@@ -15,16 +15,16 @@ Lista Demarcada:
 
 * Teste
 * Teste2
-   *SubItem Teste
+   * SubItem Teste
 * Teste 3 
 
 
 Lista de Tarefas:
 
--[] Teste de lista de Tarefas
+-[ ] Teste de lista de Tarefas
 -[x] Teste de lista de Tarefas
-   -[] Teste de lista de Tarefas
--[] Teste de lista de Tarefas
+   -[ ] Teste de lista de Tarefas
+-[ ] Teste de lista de Tarefas
 
 Tabela:
 
