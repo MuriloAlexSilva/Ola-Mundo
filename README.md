@@ -21,10 +21,10 @@ Lista Demarcada:
 
 Lista de Tarefas:
 
--[ ] Teste de lista de Tarefas
--[x] Teste de lista de Tarefas
-   -[ ] Teste de lista de Tarefas
--[ ] Teste de lista de Tarefas
+- [ ] Teste de lista de Tarefas
+- [x] Teste de lista de Tarefas
+   - [ ] Teste de lista de Tarefas
+- [ ] Teste de lista de Tarefas
 
 Tabela:
 
